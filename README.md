@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Afrah</h1>
-<h3 align="center">App developer | Front-end Developer | WordPress | UI&UX Designer | AI Enthusiast</h3>
+<h3 align="center">App developer | Front-end Developer | WordPress | UI&UX Designer | AI Enthusiast</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirahmanafrah&label=Profile%20views&color=0e75b6&style=flat" alt="abdirahmanafrah" /> </p>
 
